@@ -10,7 +10,7 @@ sp-runtime = { git = "https://github.com/paritytech/substrate", branch = "statem
 sp-core = { git = "https://github.com/paritytech/substrate", branch = "statemint" }
 sp-io = { git = "https://github.com/paritytech/substrate", branch = "statemint" }
 sp-consensus = { git = "https://github.com/paritytech/substrate", branch = "statemint" }
-sp-state-machine = { git = "https://github.com/paritytech/substrate", branch = "statemint" }
+sp-api = { git = "https://github.com/paritytech/substrate", branch = "statemint" }
 sc-client-api = { git = "https://github.com/paritytech/substrate", branch = "statemint" }
 
 # Polkadot dependencies
